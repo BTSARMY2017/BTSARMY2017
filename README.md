@@ -1,36 +1,38 @@
-💜 Welcome to my GitHub Profile!
-👩‍💻 About Me
+#💜 Welcome to my GitHub Profile!
+## ✨ About Me
+
+**Hello! I'm Dayana, a passionate learner building my path in the tech world. 
 I'm focused on programming, data science, and artificial intelligence.
-I love solving complex problems and continuously growing in the tech world — I'm still learning every day! 📚
+I love solving complex problems and continuously growing in the tech world — I'm still learning every day! 📚**
 
-🚀 Currently Learning
+###🚀 Currently Learning
 
-Python programming 🐍
+- Python programming 🐍
 
-Data Science (from zero to hero) 📊
+- Data Science (from zero to hero) 📊
 
-Artificial Intelligence (from zero to hero) 🤖
+- Artificial Intelligence (from zero to hero) 🤖
 
-Math and Calculus ➗
+- Math and Calculus ➗
 
-Statistics and Probability 🎲
+- Statistics and Probability 🎲
 
-Git and GitHub basics 🛠️
+- Git and GitHub basics 🛠️
 
-Web development basics 🌐
+- Web development basics 🌐
 
-🎯 Future Goals
+###🎯 Future Goals
 
-Build my first complete data science projects.
+- Build my first complete data science projects.
 
-Learn machine learning and AI algorithms deeply.
+- Learn machine learning and AI algorithms deeply.
 
-Contribute to open-source projects.
+- Contribute to open-source projects.
 
-Create my personalized tech setup 🖥️✨
+- Create my personalized tech setup 🖥️✨
 
-🌱 Fun Fact
-I believe that small consistent steps lead to big achievements! 🌟
+###🌱 Favorite Quote 
+I believe that small, consistent steps —or even better, *the most you can do each day*— lead to faster and greater achievements! 🌟
 
 
 
