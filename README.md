@@ -1,46 +1,68 @@
-# 💜 Welcome to my GitHub Profile!
-## ✨ About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Dayana,+welcome+to+my+space!&font=Fira%20Code&fontWeight=bold&center=true&width=500&height=50&color=8A2BE2&vcenter=true" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile+Visitors&color=8A2BE2&style=flat-square" alt="Profile Visitor Counter"/>
+</div>
 
-**Hello! I'm Dayana, a passionate learner building my path in the tech world.
-I'm focused on programming, data science, and artificial intelligence.
-I love solving complex problems and continuously growing in the tech world — I'm still learning every day! 📚**
+<br/>
 
-### 🚀 Currently Learning
+### ✨ About Me
+**Hello! I'm Dayana, a passionate learner building my path in the tech world.** I'm focused on programming, data science, and artificial intelligence, with a special mission to explore how machines can "see" and understand the world through **Computer Vision** and **Deep Learning**. I love solving complex problems and I'm excited to be growing every single day! 📚
 
-- Python programming 🐍
+<br/>
 
-- Data Science (from zero to hero) 📊
+### 🚀 My Learning Roadmap
+I'm currently building my skills from the ground up in these key areas:
 
-- Artificial Intelligence (from zero to hero) 🤖
+<ul>
+  <li>🐍 **Python Programming:** Mastering the language for AI and Data Science.</li>
+  <li>📊 **Data Science:** Learning to extract knowledge and insights from data.</li>
+  <li>🧠 **Artificial Intelligence:** Exploring the fundamentals of Machine Learning.</li>
+  <li>💜 **Deep Learning & Computer Vision:** My main focus, learning how to build models that can interpret images and videos.</li>
+  <li>➗ **Math & Calculus:** Strengthening the foundational knowledge for complex algorithms.</li>
+  <li>🎲 **Statistics & Probability:** Understanding the core concepts behind data models.</li>
+  <li>🛠️ **Git & GitHub:** Practicing version control and collaboration.</li>
+</ul>
 
-- Math and Calculus ➗
+<br/>
 
-- Statistics and Probability 🎲
+### 💻 Tools & Technologies
+These are the tools I'm currently working with:
 
-- Git and GitHub basics 🛠️
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
-- Web development basics 🌐
-
-### 💻 Tecnologías y Herramientas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<br/>
 
 ### 🎯 Future Goals
+My ambitions are to:
 
-- Build my first complete data science projects.
+<ul>
+  <li>Build my first complete Data Science and Computer Vision projects.</li>
+  <li>Deeply understand Machine Learning and AI algorithms.</li>
+  <li>Contribute to an open-source project that I'm passionate about.</li>
+  <li>Explore advanced topics like Generative AI and advanced model architectures.</li>
+  <li>Create my personalized tech setup! 🖥️✨</li>
+</ul>
 
-- Learn machine learning and AI algorithms deeply.
+<br/>
 
-- Contribute to open-source projects.
+### 🌱 Favorite Quote
+> I believe that small, consistent steps —or even better, *the most you can do each day*— lead to faster and greater achievements! 🌟
 
-- Create my personalized tech setup 🖥️✨
+<br/>
 
-### 🌱 Favorite Quote 
-I believe that small, consistent steps —or even better, *the most you can do each day*— lead to faster and greater achievements! 🌟
+<div align="center">
+  <a href="https://github.com/YourGitHubUsername">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  </div>
 
 
 
