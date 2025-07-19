@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/a/JHBBKGY" width="600" alt="BTS Concert Light Ocean"/>
+  <img src="https://imgur.com/a/JHBBKGY.gpj" width="600" alt="BTS Concert Light Ocean"/>
 </div>
 
 <br/>
