@@ -1,70 +1,72 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Nunsongi,+welcome+to+my+space!&font=Fira%20Code&fontWeight=bold&center=true&width=500&height=50&color=8A2BE2&vcenter=true" alt="Typing SVG" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile+Visitors&color=8A2BE2&style=flat-square" alt="Profile Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=BTSARMY2017&label=Profile+Visitors&color=8A2BE2&style=flat-square" alt="Profile Visitor Counter"/>
 </div>
+
 
 <br/>
 
 ### ✨ About Me
-**Hello! I'm Dayana, a passionate learner building my path in the tech world.** I'm focused on programming, data science, and artificial intelligence, with a special mission to explore how machines can "see" and understand the world through **Computer Vision** and **Deep Learning**. I love solving complex problems and I'm excited to be growing every single day! 📚
+
+**Hi, I'm Dayana — also known as Nunsongi!**  
+I'm a passionate self-taught learner on a journey through the exciting worlds of **programming**, **data science**, and **artificial intelligence**. My dream is to build intelligent systems that can understand and interpret the world — especially through **Computer Vision** and **Deep Learning**. Every day, I grow a little more. 📚💫
 
 <br/>
 
-### 🚀 My Learning Roadmap
-I'm currently building my skills from the ground up in these key areas:
+### 🚀 Learning Roadmap
 
-<ul>
-  <li>🐍 **Python Programming:** Mastering the language for AI and Data Science.</li>
-  <li>📊 **Data Science:** Learning to extract knowledge and insights from data.</li>
-  <li>🧠 **Artificial Intelligence:** Exploring the fundamentals of Machine Learning.</li>
-  <li>💜 **Deep Learning & Computer Vision:** My main focus, learning how to build models that can interpret images and videos.</li>
-  <li>➗ **Math & Calculus:** Strengthening the foundational knowledge for complex algorithms.</li>
-  <li>🎲 **Statistics & Probability:** Understanding the core concepts behind data models.</li>
-  <li>🛠️ **Git & GitHub:** Practicing version control and collaboration.</li>
-</ul>
+I'm currently focusing on building strong foundations in:
+
+- 🐍 **Python Programming**: Writing efficient and clean code for AI applications.  
+- 📊 **Data Science**: Extracting insights from data using tools like Pandas, NumPy, and Matplotlib.  
+- 🧠 **Machine Learning**: Learning algorithms like **SVM**, **KNN**, **Decision Trees**, and **Random Forest**.  
+- 👁️ **Deep Learning & Computer Vision**: Exploring **CNNs**, **Transfer Learning**, and **OpenCV**.  
+- 🔢 **Mathematics**: Studying linear algebra, calculus, and optimization.  
+- 🎲 **Statistics & Probability**: Building a solid understanding of probabilistic models.  
+- 🛠️ **Tools & Collaboration**: Using **Git**, **GitHub**, and **Jupyter Notebooks**.  
 
 <br/>
 
 ### 💻 Tools & Technologies
-These are the tools I'm currently working with:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2D3F77?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br/>
 
 ### 🎯 Future Goals
-My ambitions are to:
 
-<ul>
-  <li>Build my first complete Data Science and Computer Vision projects.</li>
-  <li>Deeply understand Machine Learning and AI algorithms.</li>
-  <li>Contribute to an open-source project that I'm passionate about.</li>
-  <li>Explore advanced topics like Generative AI and advanced model architectures.</li>
-  <li>Create my personalized tech setup! 🖥️✨</li>
-</ul>
+- 🔬 Build and showcase my own **Data Science** and **Computer Vision** projects.  
+- 🧠 Deeply understand advanced **AI** topics like **Transformers** and **Generative AI**.  
+- 🤝 Contribute to open-source projects that match my interests and skills.  
+- 🌐 Create a personal portfolio website and blog to share my learning.  
+- 🖥️ Customize my dream tech setup, inspired by creativity and performance.  
 
 <br/>
 
 ### 🌱 Favorite Quote
-> I believe that small, consistent steps —or even better, *the most you can do each day*— lead to faster and greater achievements! 🌟
+
+> “I believe that small, consistent steps — or even better, *the most you can do each day* — lead to faster and greater achievements!” 🌟
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/YourGitHubUsername">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  </div>
-
-
+</div>
 
 <!--
 **BTSARMY2017/BTSARMY2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
