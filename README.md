@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Nunsongi,+welcome+to+my+space!&font=Fira%20Code&fontWeight=bold&center=true&width=500&height=50&color=8A2BE2&vcenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Nunsongi,+welcome+to+my+space!&font=Fira%20Code&fontWeight=bold&center=true&width=500&height=50&color=8A2BE2&vcenter=true" alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=BTSARMY2017&label=Profile+Visitors&color=8A2BE2&style=flat-square" alt="Profile Visitor Counter"/>
 </div>
 
+<div align="center">
+  <img src="https://imgur.com/a/JHBBKGY" width="600" alt="BTS Concert Light Ocean"/>
+</div>
 
 <br/>
 
@@ -28,7 +31,7 @@ I'm currently focusing on building strong foundations in:
 
 <br/>
 
-### 💻 Tools & Technologies
+### 💻 Tools 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
